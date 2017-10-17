@@ -41,7 +41,11 @@
   <PropertyGroup>
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>SpaceGame.Program</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Entity.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

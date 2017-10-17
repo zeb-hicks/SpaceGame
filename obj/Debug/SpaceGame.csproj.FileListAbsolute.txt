@@ -15,3 +15,4 @@ C:\Users\Zeb\Source\Repos\SpaceGame\SpaceGame\bin\DesktopGL\AnyCPU\Debug\MonoGam
 C:\Users\Zeb\Source\Repos\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
 C:\Users\Zeb\Source\Repos\SpaceGame\SpaceGame\obj\Debug\SpaceGame.exe
 C:\Users\Zeb\Source\Repos\SpaceGame\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\Zeb\Source\Repos\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csprojResolveAssemblyReference.cache
