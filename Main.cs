@@ -29,13 +29,7 @@ namespace SpaceGame
         {
             // TODO: Add your initialization logic here
 
-            Window.TextInput += GotMeSomeText;
-
             base.Initialize();
-        }
-
-        private void GotMeSomeText(object sender, TextInputEventArgs e) {
-            
         }
 
         /// <summary>
